@@ -1,0 +1,12 @@
+F:\Projects\TSETMC\Solution1\Tsetmc.Infrastructure\bin\Debug\net6.0\Tsetmc.Infrastructure.deps.json
+F:\Projects\TSETMC\Solution1\Tsetmc.Infrastructure\bin\Debug\net6.0\Tsetmc.Infrastructure.dll
+F:\Projects\TSETMC\Solution1\Tsetmc.Infrastructure\bin\Debug\net6.0\Tsetmc.Infrastructure.pdb
+F:\Projects\TSETMC\Solution1\Tsetmc.Infrastructure\obj\Debug\net6.0\Tsetmc.Infrastructure.csproj.AssemblyReference.cache
+F:\Projects\TSETMC\Solution1\Tsetmc.Infrastructure\obj\Debug\net6.0\Tsetmc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\TSETMC\Solution1\Tsetmc.Infrastructure\obj\Debug\net6.0\Tsetmc.Infrastructure.AssemblyInfoInputs.cache
+F:\Projects\TSETMC\Solution1\Tsetmc.Infrastructure\obj\Debug\net6.0\Tsetmc.Infrastructure.AssemblyInfo.cs
+F:\Projects\TSETMC\Solution1\Tsetmc.Infrastructure\obj\Debug\net6.0\Tsetmc.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Projects\TSETMC\Solution1\Tsetmc.Infrastructure\obj\Debug\net6.0\Tsetmc.Infrastructure.dll
+F:\Projects\TSETMC\Solution1\Tsetmc.Infrastructure\obj\Debug\net6.0\refint\Tsetmc.Infrastructure.dll
+F:\Projects\TSETMC\Solution1\Tsetmc.Infrastructure\obj\Debug\net6.0\Tsetmc.Infrastructure.pdb
+F:\Projects\TSETMC\Solution1\Tsetmc.Infrastructure\obj\Debug\net6.0\ref\Tsetmc.Infrastructure.dll

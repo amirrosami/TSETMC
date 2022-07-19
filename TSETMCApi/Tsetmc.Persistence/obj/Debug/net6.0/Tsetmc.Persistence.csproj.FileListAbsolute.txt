@@ -1,0 +1,12 @@
+F:\Projects\TSETMC\Solution1\Tsetmc.Persistence\bin\Debug\net6.0\Tsetmc.Persistence.deps.json
+F:\Projects\TSETMC\Solution1\Tsetmc.Persistence\bin\Debug\net6.0\Tsetmc.Persistence.dll
+F:\Projects\TSETMC\Solution1\Tsetmc.Persistence\bin\Debug\net6.0\Tsetmc.Persistence.pdb
+F:\Projects\TSETMC\Solution1\Tsetmc.Persistence\obj\Debug\net6.0\Tsetmc.Persistence.csproj.AssemblyReference.cache
+F:\Projects\TSETMC\Solution1\Tsetmc.Persistence\obj\Debug\net6.0\Tsetmc.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\TSETMC\Solution1\Tsetmc.Persistence\obj\Debug\net6.0\Tsetmc.Persistence.AssemblyInfoInputs.cache
+F:\Projects\TSETMC\Solution1\Tsetmc.Persistence\obj\Debug\net6.0\Tsetmc.Persistence.AssemblyInfo.cs
+F:\Projects\TSETMC\Solution1\Tsetmc.Persistence\obj\Debug\net6.0\Tsetmc.Persistence.csproj.CoreCompileInputs.cache
+F:\Projects\TSETMC\Solution1\Tsetmc.Persistence\obj\Debug\net6.0\Tsetmc.Persistence.dll
+F:\Projects\TSETMC\Solution1\Tsetmc.Persistence\obj\Debug\net6.0\refint\Tsetmc.Persistence.dll
+F:\Projects\TSETMC\Solution1\Tsetmc.Persistence\obj\Debug\net6.0\Tsetmc.Persistence.pdb
+F:\Projects\TSETMC\Solution1\Tsetmc.Persistence\obj\Debug\net6.0\ref\Tsetmc.Persistence.dll

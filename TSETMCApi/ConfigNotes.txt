@@ -1,0 +1,5 @@
+
+Database Scaffolding:
+#######################
+Scaffold-DbContext "Server=.;Database=TSE;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/Entities
+#######################

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5biOgpVS/Dg4HxucmrZYxPDXz46nT/1wi3IBbdqV5Zg=",
+  "Source": "Endpoint.TsetmcApi",
+  "BasePath": "_content/Endpoint.TsetmcApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

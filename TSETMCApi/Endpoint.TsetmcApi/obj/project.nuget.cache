@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Edo6OqOU6/3svKhq+CXIrfDvSlGUGroH8ZJfoVgzKzDOD4ExM0ebHAKa2rd0BHO/8Sq1vdp615RzihIA2dR8vg==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\TSETMC\\Solution1\\Endpoint.TsetmcApi\\Endpoint.TsetmcApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS cebit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS cebit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS cebit\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS cebit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS cebit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS cebit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

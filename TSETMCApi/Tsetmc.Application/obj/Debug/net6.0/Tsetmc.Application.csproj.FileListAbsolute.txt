@@ -1,0 +1,12 @@
+F:\Projects\TSETMC\Solution1\Tsetmc.Application\bin\Debug\net6.0\Tsetmc.Application.deps.json
+F:\Projects\TSETMC\Solution1\Tsetmc.Application\bin\Debug\net6.0\Tsetmc.Application.dll
+F:\Projects\TSETMC\Solution1\Tsetmc.Application\bin\Debug\net6.0\Tsetmc.Application.pdb
+F:\Projects\TSETMC\Solution1\Tsetmc.Application\obj\Debug\net6.0\Tsetmc.Application.csproj.AssemblyReference.cache
+F:\Projects\TSETMC\Solution1\Tsetmc.Application\obj\Debug\net6.0\Tsetmc.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\TSETMC\Solution1\Tsetmc.Application\obj\Debug\net6.0\Tsetmc.Application.AssemblyInfoInputs.cache
+F:\Projects\TSETMC\Solution1\Tsetmc.Application\obj\Debug\net6.0\Tsetmc.Application.AssemblyInfo.cs
+F:\Projects\TSETMC\Solution1\Tsetmc.Application\obj\Debug\net6.0\Tsetmc.Application.csproj.CoreCompileInputs.cache
+F:\Projects\TSETMC\Solution1\Tsetmc.Application\obj\Debug\net6.0\Tsetmc.Application.dll
+F:\Projects\TSETMC\Solution1\Tsetmc.Application\obj\Debug\net6.0\refint\Tsetmc.Application.dll
+F:\Projects\TSETMC\Solution1\Tsetmc.Application\obj\Debug\net6.0\Tsetmc.Application.pdb
+F:\Projects\TSETMC\Solution1\Tsetmc.Application\obj\Debug\net6.0\ref\Tsetmc.Application.dll
