@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 
 namespace Tsetmc.Domain.Entities.App
@@ -9,7 +10,7 @@ namespace Tsetmc.Domain.Entities.App
         {
             Stocks = new HashSet<Stock>();
         }
-
+        
         public int Id { get; set; }
         public string? SectorNo { get; set; }
         public string SectorName { get; set; } = null!;

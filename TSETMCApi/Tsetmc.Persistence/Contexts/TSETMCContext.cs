@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Tsetmc.Persistence.IUnitOfWork;
 
 namespace Tsetmc.Domain.Entities.App
 {
-    public partial class TSETMCContext : DbContext
+    public partial class TSETMCContext : DbContext,Iunitofwork
     {
         public TSETMCContext()
         {
@@ -23,6 +24,16 @@ namespace Tsetmc.Domain.Entities.App
         public virtual DbSet<ShareHolder> ShareHolders { get; set; } = null!;
         public virtual DbSet<Stock> Stocks { get; set; } = null!;
         public virtual DbSet<StocksHistory> StocksHistories { get; set; } = null!;
+
+        public int savechanges()
+        {
+           return base.SaveChanges();
+        }
+
+        public Task<int> savechangesAsync(CancellationToken cancellationToken = default)
+        {
+            return base.SaveChangesAsync(cancellationToken);
+        }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

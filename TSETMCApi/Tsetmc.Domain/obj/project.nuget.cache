@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Bi6OV0wLxJpaYG4QLm3wtfw/MJCBIxtHBqLwc6t5o0/MLVT4JniLSHF6IZ+7xzk/2mEFdw/6+CGwT9kIBJrUQ==",
+  "dgSpecHash": "5rchEQTqN3lp6jS6xiaESJqU103nbnHWbtVU4x/uhDuVbY+g6n6tf4K1uA8QRlRUi86tZwPDUmq44TDnMyCAaQ==",
   "success": true,
-  "projectFilePath": "F:\\Projects\\TSETMC\\Solution1\\Tsetmc.Domain\\Tsetmc.Domain.csproj",
+  "projectFilePath": "F:\\Projects\\TSETMC\\TSETMCApi\\Tsetmc.Domain\\Tsetmc.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS cebit\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ASUS cebit\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

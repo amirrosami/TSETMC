@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\TSETMC\\Solution1\\Tsetmc.Infrastructure\\Tsetmc.Infrastructure.csproj": {}
+    "F:\\Projects\\TSETMC\\TSETMCApi\\Tsetmc.Infrastructure\\Tsetmc.Infrastructure.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\TSETMC\\Solution1\\Tsetmc.Infrastructure\\Tsetmc.Infrastructure.csproj": {
+    "F:\\Projects\\TSETMC\\TSETMCApi\\Tsetmc.Infrastructure\\Tsetmc.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\TSETMC\\Solution1\\Tsetmc.Infrastructure\\Tsetmc.Infrastructure.csproj",
+        "projectUniqueName": "F:\\Projects\\TSETMC\\TSETMCApi\\Tsetmc.Infrastructure\\Tsetmc.Infrastructure.csproj",
         "projectName": "Tsetmc.Infrastructure",
-        "projectPath": "F:\\Projects\\TSETMC\\Solution1\\Tsetmc.Infrastructure\\Tsetmc.Infrastructure.csproj",
+        "projectPath": "F:\\Projects\\TSETMC\\TSETMCApi\\Tsetmc.Infrastructure\\Tsetmc.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ASUS cebit\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\TSETMC\\Solution1\\Tsetmc.Infrastructure\\obj\\",
+        "outputPath": "F:\\Projects\\TSETMC\\TSETMCApi\\Tsetmc.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

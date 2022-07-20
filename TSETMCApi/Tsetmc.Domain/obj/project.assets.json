@@ -1872,11 +1872,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\TSETMC\\Solution1\\Tsetmc.Domain\\Tsetmc.Domain.csproj",
+      "projectUniqueName": "F:\\Projects\\TSETMC\\TSETMCApi\\Tsetmc.Domain\\Tsetmc.Domain.csproj",
       "projectName": "Tsetmc.Domain",
-      "projectPath": "F:\\Projects\\TSETMC\\Solution1\\Tsetmc.Domain\\Tsetmc.Domain.csproj",
+      "projectPath": "F:\\Projects\\TSETMC\\TSETMCApi\\Tsetmc.Domain\\Tsetmc.Domain.csproj",
       "packagesPath": "C:\\Users\\ASUS cebit\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\TSETMC\\Solution1\\Tsetmc.Domain\\obj\\",
+      "outputPath": "F:\\Projects\\TSETMC\\TSETMCApi\\Tsetmc.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

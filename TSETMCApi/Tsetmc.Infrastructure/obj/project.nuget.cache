@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RV2mpKRZIeXEiO0XEc5qjw/9EbVzM0Mta10E5rjlBGgYN4prGH+yxiPqZBtev4sQX8UpEWDRlHpTOoUfTWQDZQ==",
+  "dgSpecHash": "flOOhFy0+KEd3Fnw3REG3Sv2Oid+IjMi+BuLtiVH/RxRYb2FQefWAmhrft5Sqj/HFn0O/eDphdsHMcQAabJkUg==",
   "success": true,
-  "projectFilePath": "F:\\Projects\\TSETMC\\Solution1\\Tsetmc.Infrastructure\\Tsetmc.Infrastructure.csproj",
+  "projectFilePath": "F:\\Projects\\TSETMC\\TSETMCApi\\Tsetmc.Infrastructure\\Tsetmc.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "abRxiAxQcQlheGc9x2QK82X/vBbhaoVs3L7amNFjonSBS3tyZRIKemAmjRX3lSwb42i+tsepSmXNy0MpxV7nfA==",
+  "dgSpecHash": "GG7G3ySqGo6AqUsGO7TACBPlKqqcRLPpXMp1rm8eDTF++vOhnxELq/aKHFte567dKMSxeqdZuDLOPDSw1Ifriw==",
   "success": true,
-  "projectFilePath": "F:\\Projects\\TSETMC\\Solution1\\Tsetmc.Application\\Tsetmc.Application.csproj",
+  "projectFilePath": "F:\\Projects\\TSETMC\\TSETMCApi\\Tsetmc.Application\\Tsetmc.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

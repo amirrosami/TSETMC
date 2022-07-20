@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tsetmc.Domain
-build_property.ProjectDir = F:\Projects\TSETMC\Solution1\Tsetmc.Domain\
+build_property.ProjectDir = F:\Projects\TSETMC\TSETMCApi\Tsetmc.Domain\
