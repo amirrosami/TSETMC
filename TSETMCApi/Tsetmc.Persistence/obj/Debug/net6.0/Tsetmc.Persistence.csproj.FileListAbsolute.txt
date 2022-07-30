@@ -29,3 +29,5 @@ F:\Projects\TSETMC\TSETMCApi\Tsetmc.Persistence\obj\Debug\net6.0\refint\Tsetmc.P
 F:\Projects\TSETMC\TSETMCApi\Tsetmc.Persistence\obj\Debug\net6.0\Tsetmc.Persistence.pdb
 F:\Projects\TSETMC\TSETMCApi\Tsetmc.Persistence\obj\Debug\net6.0\Tsetmc.Persistence.genruntimeconfig.cache
 F:\Projects\TSETMC\TSETMCApi\Tsetmc.Persistence\obj\Debug\net6.0\ref\Tsetmc.Persistence.dll
+F:\Projects\TSETMC\TSETMCApi\Tsetmc.Persistence\bin\Debug\net6.0\Commons.dll
+F:\Projects\TSETMC\TSETMCApi\Tsetmc.Persistence\bin\Debug\net6.0\Commons.pdb

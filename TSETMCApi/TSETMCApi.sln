@@ -16,17 +16,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{5CCBD69E-7
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{6A7D3DC6-B009-44D0-9911-79E6D2B93133}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tsetmc.Domain", "Tsetmc.Domain\Tsetmc.Domain.csproj", "{6D4996CE-2798-4652-8801-141BF5F78845}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tsetmc.Domain", "Tsetmc.Domain\Tsetmc.Domain.csproj", "{6D4996CE-2798-4652-8801-141BF5F78845}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tsetmc.Application", "Tsetmc.Application\Tsetmc.Application.csproj", "{985969F1-E6B7-451E-A188-8DCB4A9BFE3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tsetmc.Application", "Tsetmc.Application\Tsetmc.Application.csproj", "{985969F1-E6B7-451E-A188-8DCB4A9BFE3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tsetmc.Persistence", "Tsetmc.Persistence\Tsetmc.Persistence.csproj", "{7E4D4688-982E-458F-B697-F09CA227AAB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tsetmc.Persistence", "Tsetmc.Persistence\Tsetmc.Persistence.csproj", "{7E4D4688-982E-458F-B697-F09CA227AAB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tsetmc.Infrastructure", "Tsetmc.Infrastructure\Tsetmc.Infrastructure.csproj", "{607F1EFE-AB6F-4460-B559-B6557348A7F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tsetmc.Infrastructure", "Tsetmc.Infrastructure\Tsetmc.Infrastructure.csproj", "{607F1EFE-AB6F-4460-B559-B6557348A7F7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{AA221F90-4511-4E6B-82A1-6B3D2BD7FCD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endpoint.TsetmcApi", "Endpoint.TsetmcApi\Endpoint.TsetmcApi.csproj", "{674DD08E-76F7-4166-BC0D-4ECFE092EBCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Endpoint.TsetmcApi", "Endpoint.TsetmcApi\Endpoint.TsetmcApi.csproj", "{674DD08E-76F7-4166-BC0D-4ECFE092EBCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Commons", "Commons", "{BDA97324-8E4D-4573-941B-F0333FD1D74B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commons", "Commons\Commons.csproj", "{D8AEB06D-09EB-44B4-AB50-C53EB8269A20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -54,6 +58,10 @@ Global
 		{674DD08E-76F7-4166-BC0D-4ECFE092EBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{674DD08E-76F7-4166-BC0D-4ECFE092EBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{674DD08E-76F7-4166-BC0D-4ECFE092EBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8AEB06D-09EB-44B4-AB50-C53EB8269A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AEB06D-09EB-44B4-AB50-C53EB8269A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AEB06D-09EB-44B4-AB50-C53EB8269A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AEB06D-09EB-44B4-AB50-C53EB8269A20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +75,8 @@ Global
 		{607F1EFE-AB6F-4460-B559-B6557348A7F7} = {6A7D3DC6-B009-44D0-9911-79E6D2B93133}
 		{AA221F90-4511-4E6B-82A1-6B3D2BD7FCD6} = {DAD5F0FF-3750-43BC-AFEE-9418EA1B9B49}
 		{674DD08E-76F7-4166-BC0D-4ECFE092EBCA} = {AA221F90-4511-4E6B-82A1-6B3D2BD7FCD6}
+		{BDA97324-8E4D-4573-941B-F0333FD1D74B} = {DAD5F0FF-3750-43BC-AFEE-9418EA1B9B49}
+		{D8AEB06D-09EB-44B4-AB50-C53EB8269A20} = {BDA97324-8E4D-4573-941B-F0333FD1D74B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0EC1DFA2-FF4C-4BD4-AF77-63D2DB77BBE9}

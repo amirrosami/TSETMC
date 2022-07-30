@@ -1,0 +1,12 @@
+F:\Projects\TSETMC\TSETMCApi\Commons\bin\Debug\net6.0\Commons.deps.json
+F:\Projects\TSETMC\TSETMCApi\Commons\bin\Debug\net6.0\Commons.dll
+F:\Projects\TSETMC\TSETMCApi\Commons\bin\Debug\net6.0\Commons.pdb
+F:\Projects\TSETMC\TSETMCApi\Commons\obj\Debug\net6.0\Commons.csproj.AssemblyReference.cache
+F:\Projects\TSETMC\TSETMCApi\Commons\obj\Debug\net6.0\Commons.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\TSETMC\TSETMCApi\Commons\obj\Debug\net6.0\Commons.AssemblyInfoInputs.cache
+F:\Projects\TSETMC\TSETMCApi\Commons\obj\Debug\net6.0\Commons.AssemblyInfo.cs
+F:\Projects\TSETMC\TSETMCApi\Commons\obj\Debug\net6.0\Commons.csproj.CoreCompileInputs.cache
+F:\Projects\TSETMC\TSETMCApi\Commons\obj\Debug\net6.0\Commons.dll
+F:\Projects\TSETMC\TSETMCApi\Commons\obj\Debug\net6.0\refint\Commons.dll
+F:\Projects\TSETMC\TSETMCApi\Commons\obj\Debug\net6.0\Commons.pdb
+F:\Projects\TSETMC\TSETMCApi\Commons\obj\Debug\net6.0\ref\Commons.dll

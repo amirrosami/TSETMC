@@ -20,6 +20,7 @@ namespace Tsetmc.Domain.Entities.App
         public long? StockAmount { get; set; }
         public int StockSectorId { get; set; }
         public int? StockMarketId { get; set; }
+        public int? ImportantLevel { get; set; }
 
         public virtual Sector StockSector { get; set; } = null!;
         public virtual ICollection<StocksHistory> StocksHistories { get; set; }

@@ -18,12 +18,13 @@ namespace Tsetmc.Domain.Entities.App
         public long? VolAmount { get; set; }
         public int? BuyCountI { get; set; }
         public int? BuyCountN { get; set; }
-        public int? BuyIvolume { get; set; }
-        public int? BuyNvolume { get; set; }
-        public int? SellIvolume { get; set; }
-        public int? SellNvolume { get; set; }
+        public long? BuyIvolume { get; set; }
+        public long? BuyNvolume { get; set; }
+        public long? SellIvolume { get; set; }
+        public long? SellNvolume { get; set; }
         public int? SellCountI { get; set; }
         public int? SellCountN { get; set; }
+        public long? StockValue { get; set; }
 
         public virtual Stock Stock { get; set; } = null!;
     }
